@@ -18,7 +18,7 @@ ui <- fluidPage(
     # Application title
   
     #GIT - EDITAR TITULO DE LA APLICACION ###################################
-    titlePanel("Iris Database: Classification with KNN (K-Nearest Neighbour versión 1.0)"),
+    titlePanel("Iris Database: Classification with RandomForest"),
     #########################################################################
 
     # Sidebar with a slider input for number of bins 
